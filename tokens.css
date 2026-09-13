@@ -1,0 +1,14 @@
+:root {
+  --cream: #f5f1e8;
+  --surface: #fffdf8;
+  --ink: #172019;
+  --muted: #6f786f;
+  --green: #2f6b4f;
+  --green-soft: #dfeade;
+  --wood: #9b7350;
+  --line: rgba(23,32,25,.10);
+  --radius-lg: 24px;
+  --radius-md: 16px;
+  --shadow: 0 12px 35px rgba(40,45,35,.08);
+  --ease: cubic-bezier(.2,.8,.2,1);
+}
